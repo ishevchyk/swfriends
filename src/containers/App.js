@@ -1,8 +1,10 @@
 import React, {Component} from "react";
 import CardList from "../components/CardList";
 import SearchBox from "../components/SearchBox";
-import "./App.css"
+import ErrorBoundry from "../components/ErrorBoundry";
 import Scroll from "../components/Scroll"
+import "./App.css"
+
 
 // smart components
 class App extends Component {
@@ -37,7 +39,9 @@ componentDidMount() {
             <h1 className='f1'>Slimware Friends</h1>
             <SearchBox searchChange={this.onSearchChange}/>
             <Scroll>
+                <ErrorBoundry>
                 <CardList friends={filteredFriends} />
+                </ErrorBoundry>
             </Scroll>
         </div>
         );
