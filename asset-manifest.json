@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/swfriends/static/css/main.07e00ac3.chunk.css",
+    "main.js": "/swfriends/static/js/main.3520c8a5.chunk.js",
+    "main.js.map": "/swfriends/static/js/main.3520c8a5.chunk.js.map",
+    "runtime-main.js": "/swfriends/static/js/runtime-main.bd579c03.js",
+    "runtime-main.js.map": "/swfriends/static/js/runtime-main.bd579c03.js.map",
+    "static/css/2.31461e4f.chunk.css": "/swfriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.5a02b216.chunk.js": "/swfriends/static/js/2.5a02b216.chunk.js",
+    "static/js/2.5a02b216.chunk.js.map": "/swfriends/static/js/2.5a02b216.chunk.js.map",
+    "static/js/3.fd50c7d4.chunk.js": "/swfriends/static/js/3.fd50c7d4.chunk.js",
+    "static/js/3.fd50c7d4.chunk.js.map": "/swfriends/static/js/3.fd50c7d4.chunk.js.map",
+    "index.html": "/swfriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/swfriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.07e00ac3.chunk.css.map": "/swfriends/static/css/main.07e00ac3.chunk.css.map",
+    "static/js/2.5a02b216.chunk.js.LICENSE.txt": "/swfriends/static/js/2.5a02b216.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/swfriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd579c03.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.5a02b216.chunk.js",
+    "static/css/main.07e00ac3.chunk.css",
+    "static/js/main.3520c8a5.chunk.js"
+  ]
+}
